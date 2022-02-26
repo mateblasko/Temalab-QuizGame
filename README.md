@@ -1,3 +1,3 @@
 # Temalab-QuizGame
 
-Fincsamincsahabosbabos leírás
+Fincsamincsahabosbabosmézesmázasbolondos leírás
